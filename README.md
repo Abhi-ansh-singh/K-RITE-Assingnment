@@ -4,7 +4,7 @@ A E-commerce Website made with React , Redux toolkit and Bootstrap.
 
 ## Demo
 
-[Link]
+[(https://e-commers-store.vercel.app/)]
 
 ## Features
 
